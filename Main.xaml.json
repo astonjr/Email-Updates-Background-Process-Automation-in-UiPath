@@ -1,0 +1,33 @@
+{
+  "DisplayName": "Main",
+  "Tooltip": null,
+  "HelpLink": null,
+  "Color": null,
+  "OriginalIconFileName": null,
+  "Arguments": [
+    {
+      "Name": "ForEachEmailConnections_2_Connection0",
+      "DisplayName": "ForEachEmailConnections_2_Connection",
+      "Category": null,
+      "Tooltip": "For Each Email",
+      "Placeholder": null,
+      "Widget": "Connection",
+      "IsRequired": true,
+      "IsPrincipal": true,
+      "ArgumentType": 1,
+      "DataSourceItems": null
+    },
+    {
+      "Name": "ForEachEmailConnections_2_Connection0_Property0_Metadata",
+      "DisplayName": "Email folder or label",
+      "Category": null,
+      "Tooltip": "For Each Email",
+      "Placeholder": null,
+      "Widget": null,
+      "IsRequired": true,
+      "IsPrincipal": true,
+      "ArgumentType": 2,
+      "DataSourceItems": null
+    }
+  ]
+}
